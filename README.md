@@ -7,4 +7,6 @@ git commit -m "first commit"
 git remote add origin https://github.com/cphaharish/test-repo.git
 git push -u origin master 
 
-added some changes
+added some changes 
+
+added new 
